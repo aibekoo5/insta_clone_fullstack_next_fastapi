@@ -1,0 +1,22 @@
+# ===== BACKEND =====
+backend_fastapi/.env
+backend_fastapi/venv/
+backend_fastapi/__pycache__/
+backend_fastapi/alembic/__pycache__/
+backend_fastapi/alembic/versions/
+*.pyc
+*.pyo
+__pycache__/
+
+# ===== FRONTEND =====
+frontend_next/node_modules/
+frontend_next/.next/
+frontend_next/package-lock.json
+frontend_next/.env
+
+# ===== GENERAL =====
+.env
+.DS_Store
+*.log
+.vscode/
+

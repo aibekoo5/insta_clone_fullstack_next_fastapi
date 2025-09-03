@@ -1,0 +1,23 @@
+# ===== FRONTEND =====
+frontend_next/node_modules
+frontend_next/.next
+frontend_next/.env
+frontend_next/package-lock.json
+frontend_next/Dockerfile
+frontend_next/*.md
+
+# ===== BACKEND =====
+backend_fastapi/venv
+backend_fastapi/.env
+backend_fastapi/__pycache__/
+backend_fastapi/alembic/__pycache__/
+backend_fastapi/alembic/versions/__pycache__/
+backend_fastapi/tests/
+*.pyc
+*.pyo
+__pycache__/
+
+# ===== COMMON =====
+.vscode
+docker-compose.yml
+.gitignore
