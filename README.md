@@ -87,3 +87,5 @@ docker pull aibekkemel/lifegram-frontend
 
 🧑‍💻 Made by: Aibek Kemel
 Thank you for your attention! If you have any questions — I am open 🌟
+=======
+# insta_clone_fullstack_next_fastapi
